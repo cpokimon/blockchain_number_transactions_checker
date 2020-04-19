@@ -1,4 +1,4 @@
-# blockchain_n_tx_checker
+# Blockchain_number_transactions_checker
 
   Code for automatically checking the current number of transactions by address.
   If the previous number of transactions is less than the current, 
